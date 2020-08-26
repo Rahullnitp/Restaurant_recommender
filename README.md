@@ -1,1 +1,3 @@
-# Restaurant_recommender
+The recommender system discovers data patterns in the dataset by learning consumer’s choices and produces the outcomes that co-relate to their needs and interest.
+In this project, I propose a restaurant recommender system in a mobile environment. This recommender system adopts a user preference model by using the features of the user's visited restaurants and also utilizes the location information of users and restaurants to dynamically generate the recommendation results.
+There are various types of Recommendation systems but for this restaurant recommendation system that I build, I focused on using Matrix Factorization or Latent Factor Collaborative Filtering and Weighted rating for the new users.
